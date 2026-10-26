@@ -32,7 +32,7 @@
 
 ## Genel Bakış
 
-**Kawaii Icons Pack 1**, **Elgato Stream Deck**, **Evoxdeck**, **Loupedeck** ve **Touch Portal** cihazları için özel olarak tasarlanmış, ultra yüksek çözünürlüklü estetik bir pastel ikon koleksiyonudur.
+**Kawaii Icons Pack 1**, **Stream & Macro Decks**, **Evoxdeck**, **Loupedeck** ve **Touch Portal** cihazları için özel olarak tasarlanmış, ultra yüksek çözünürlüklü estetik bir pastel ikon koleksiyonudur.
 
 Her ikon, Retina $128\times 128$ çözünürlükte, matematiksel süperelips ($p=4.0, r=54$) squircle taban üzerinde, zengin pastel gradyanlar ve 6 farklı anime tarzı doku varyantıyla render edilmiştir.
 
@@ -76,7 +76,7 @@ Paketteki her sembol 6 farklı doku seçeneğiyle sunulur:
 ## Kategoriler (166 Sembol × 12 Tema)
 
 1. **🐱 Kawaii & Özel Simgeler:** Kawaii Kedi, Kawaii Gülümseme, Nilüfer Çiçeği, Kalpli Klasör, BRB (Hemen Döneceğim) Rozeti, END Rozeti, Monitör Soğutma/Güneş/Eksi/Artı, Kalpler, Işıltılar.
-2. **📱 Sosyal Medya & Platformlar:** TikTok (dairesiz saf beyaz minimal glif), YouTube, Twitch, Discord, Instagram, Twitter/X, Facebook, Spotify, Steam, Kick, Reddit, Telegram, WhatsApp, Snapchat, GitHub, Patreon, OBS Studio, Streamlabs, Audacity, Blender.
+2. **📱 Sosyal Medya & Platformlar:** TikTok (dairesiz saf beyaz minimal glif), YouTube, Twitch, Discord, Instagram, Twitter/X, Facebook, Spotify, Steam, Kick, Reddit, Telegram, WhatsApp, Snapchat, GitHub, OBS Studio, Streamlabs, Audacity, Blender.
 3. **🎙️ Ses & Mikrofon Kontrolleri:** Mikrofon, Kulaklık, Ses Seviyeleri (0-1-2-Mute), Bildirim Zili, Dalga Boyu Grafikleri. Kapalı durumlarda vişne kırmızısı (`#691237`) zarif çapraz çizgi.
 4. **🎵 Medya & Müzik:** Oynat, Duraklat, İleri, Geri, Karıştır, Tekrarla, Plak, Radyo, Podcast, Gitar, Kamera, Video, FL Studio, Apple Music.
 5. **⭐ Yayıncı Rozetleri:** REC, LIVE, Game Audio, Music Audio, Mute, Deaf, Mic On, GG, VIP, MOD, Clutch, AFK, Hype, Sub, Chat, Poll, Clip, Kupa, Taç, Alev, Şimşek.
@@ -91,7 +91,7 @@ Paketteki her sembol 6 farklı doku seçeneğiyle sunulur:
 flowchart TD
     A["GitHub Releases'ten<br/>.evoxpack Dosyasını İndir"] --> B{Kullandığınız Yazılım}
     B -->|"Evoxdeck"| C["Tek Tıkla İçe Aktar<br/>Dosyaya çift tıkla veya Evoxdeck'e sürükle"]
-    B -->|"Elgato Stream Deck"| D["icons/ Klasörünü Çıkart<br/>PNG'leri doğrudan tuşlara ata"]
+    B -->|"Stream & Macro Decks"| D["icons/ Klasörünü Çıkart<br/>PNG'leri doğrudan tuşlara ata"]
     C --> E["2.000 İkon Anında Kullanıma Hazır"]
     D --> E
 ```
@@ -101,9 +101,9 @@ flowchart TD
 2. Dosyaya çift tıklayın veya **Evoxdeck** ➔ **Ayarlar** ➔ **İkon Paketleri** ➔ **Paket İçe Aktar** yolunu izleyin.
 3. 2.000 ikon anında arama ve filtreleme özellikleriyle kütüphanenize eklenir.
 
-### 2. Elgato Stream Deck
+### 2. Stream & Macro Decks
 1. Depodaki `icons/` klasörünü açın.
-2. Elgato Stream Deck yazılımında istediğiniz PNG dosyasını tuş yuvasına sürükleyip bırakın.
+2. Stream & Macro Decks yazılımında istediğiniz PNG dosyasını tuş yuvasına sürükleyip bırakın.
 
 ---
 
